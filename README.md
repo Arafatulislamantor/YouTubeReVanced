@@ -1,6 +1,8 @@
 ## YouTube ReVanced
 [![Download](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVancedUnofficial?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest) [![Total](https://shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/tag/v17.29.34)
 ![](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/blob/16b0c4c77ef042365dcbd531c9058f04bb34e5f5/YoutubeRevanced.jpg)
+## Unofficial Magisk Module
+ 
 This repo includes a simple script that downloads all the latest version of necessary prebuilt ReVanced YouTube applies the patches and creates magisk modules.
 
 ReVanced Continuing the legacy of Vanced
