@@ -1,23 +1,13 @@
 ## v17.29.34
+## Changelog:
+Bug fixes
 
-## Changelog
-• Bug fixes:
+• Swipe-controls override volume button behaviour.
 
-• Incorrect fingerprint version [skip ci].
+• Add missing switch for tablet mini-player.
 
-• Rollback to Dependencies annotation.
+## Features:
 
-• Migrate to new patcher api.
+• This build introduces the tablet-mini-player patch.
 
-• Incorrect compatibilty attribute.
-
-• Spoof X-Android-Cert of Firebase authToken api request.
-
-• Logic in VideoAdsPatch.
-
-• Unintentional like button detection.
-
-• Most probably more bug fixes and optimizations.
-
-## Features
-The RYD, SponsorBlock and ReVanced menu's are now properly black themed instead of white.
+• Bumped up the YouTube base to version 17.31.36.
