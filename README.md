@@ -6,10 +6,11 @@
 
 ## Built Status
 💠 Unofficial
- 
-## This repo includes a simple script that downloads all the latest version of necessary prebuilt ReVanced YouTube applies the patches and creates magisk modules.
 
-## ReVanced Continuing the legacy of Vanced
+## ReVanced Team Continuing Legacy of Vanced   
+As most of you are aware that YouTube Vanced has been discontinued.ReVanced continuing legacy of Vanced.It has all the YouTube Vanced cool features like Ads blocking, Sponsor Block, Layout Changes, Return YouTube Dislikes & much more. Also it's base updates regularly.
+
+## This repo includes a simple script that downloads all the latest version of necessary prebuilt ReVanced YouTube applies the patches and creates magisk modules.
 
 ## Latest ReVanced Releases 
 You can get the latest
@@ -54,9 +55,13 @@ To be able to update YouTube ReVanced version, you will need to:
 
 • Before install YouTube ReVanced App, must install MicroG.Otherwise YouTube App will Crash🔉
 ## Support
-[![Channel](https://img.shields.io/badge/Follow%20-Telegram%20Channel%20%20-blue.svg?logo=telegram)](https://t.me/AndroidRepoOfficial)
+[![Arafat's TelegramChannel](https://img.shields.io/badge/Follow%20My%20-Telegram%20Channel%20%20-blue.svg?logo=telegram)](https://t.me/AndroidRepoOfficial)
 
 ## Social Links
-[![Facebook](https://img.shields.io/badge/Follow-Facebook-blue.svg?logo=facebook)](https://www.facebook.com/OO7Arafat)
-[![Instagram](https://img.shields.io/badge/Follow-Instagram-red.svg?logo=instagram)](https://www.instagram.com/Arafatulislamantor)
-[![Twitter](https://img.shields.io/badge/Follow-Twitter-blue.svg?logo=twitter)](https://www.twitter.com/CryptoArafat) [![Telegram](https://img.shields.io/badge/-Telegram-blue.svg?logo=telegram)](https://t.me/Arafatulislamantor)
+[![Arafat's Telegram Profile](https://img.shields.io/badge/Contact%20Me%20On%20-Telegram-blue.svg?logo=telegram)](https://t.me/Arafatulislamantor)
+
+[![Arafat's Twitter Profile](https://img.shields.io/badge/Contact%20Me%20On%20-Twitter-blue.svg?logo=twitter)](https://www.twitter.com/CryptoArafat) 
+
+[![Arafat's Facebook Profile](https://img.shields.io/badge/Contact%20Me%20On%20-Facebook%20-blue.svg?logo=facebook)](https://www.facebook.com/OO7Arafat)
+
+[![Arafat's Instagram Profile](https://img.shields.io/badge/Contact%20Me%20On%20-Instagram-red.svg?logo=instagram)](https://www.instagram.com/Arafatulislamantor)
