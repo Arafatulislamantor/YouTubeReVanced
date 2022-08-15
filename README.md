@@ -57,7 +57,7 @@ To be able to update YouTube ReVanced version, you will need to:
 ## Support
 [![Arafat's TelegramChannel](https://img.shields.io/badge/Follow%20My%20-Telegram%20Channel%20%20-blue.svg?logo=telegram)](https://t.me/AndroidRepoOfficial)
 
-## Social Links
+## Communication LINKS 
 [![Arafat's Telegram Profile](https://img.shields.io/badge/Contact%20Me%20On%20-Telegram-blue.svg?logo=telegram)](https://t.me/Arafatulislamantor)
 
 [![Arafat's Twitter Profile](https://img.shields.io/badge/Contact%20Me%20On%20-Twitter-blue.svg?logo=twitter)](https://www.twitter.com/CryptoArafat) 
