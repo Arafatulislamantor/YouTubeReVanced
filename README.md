@@ -1,17 +1,25 @@
 ## YouTube ReVanced
 [![Download](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVancedUnofficial?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest) [![Total](https://shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/tag/v17.29.34)
 ![](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/blob/16b0c4c77ef042365dcbd531c9058f04bb34e5f5/YoutubeRevanced.jpg)
-## Unofficial Magisk Module
-## Root and NonRoot Variants are Available
-   
-This repo includes a simple script that downloads all the latest version of necessary prebuilt ReVanced YouTube applies the patches and creates magisk modules.
+## Root and NonRoot
+✨Both Variants are Available
 
-ReVanced Continuing the legacy of Vanced
+## Built Status
+💠 Unofficial
+ 
+## This repo includes a simple script that downloads all the latest version of necessary prebuilt ReVanced YouTube applies the patches and creates magisk modules.
 
-You can get the [latest ReVanced (Root/NonRoot) release from here](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest).
+## ReVanced Continuing the legacy of Vanced
+
+## Latest ReVanced Releases 
+You can get the latest
+
+YouTube ReVanced (Root / NonRoot)
+
+[Releases From Here](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest).
 
 ## Instructions
-For Rooted User
+✨For Rooted User :
 
  • Download Youtube ReVanced Module
 
@@ -19,7 +27,7 @@ For Rooted User
 
  • Reboot
 
-For NonRoot User
+✨For NonRoot User:
 
  • Install MicroG
 
@@ -27,21 +35,22 @@ For NonRoot User
 
 ## How to select Different theme for YouTube (Magisk) [dark/black] :
 
-1. For black theme :
+🎇For black theme :
 This is default theme
 
-2. For dark theme :
+🎇For dark theme :
 Before installing module, create empty file with filename as "ytdark" or "Ytdark" or "YTDARK" in root of internal storage (without quotation mark)
 
 ## Updating
 The modules support Magisk update which means you will receive updates from your Magisk app, downloading from github releases and reflashing is not necessary.  
 To be able to update YouTube ReVanced version, you will need to:
 
- * Update the ReVanced Module
- * Reboot
+ • Update the ReVanced Module
+
+ • Reboot
 
 ## NOTE
-For NonRoot User:
+✨For NonRoot User :
 
 • Before install YouTube ReVanced App, must install MicroG.Otherwise YouTube App will Crash🔉
 ## Support
