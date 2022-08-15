@@ -11,13 +11,21 @@ ReVanced Continuing the legacy of Vanced
 You can get the [latest ReVanced (Root/NonRoot) release from here](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest).
 
 ## Instructions
--Download Youtube ReVanced Module
+For Rooted User
 
--Install module through Magisk Manager
+ • Download Youtube ReVanced Module
 
--Reboot
+ • Install module through Magisk Manager
 
-## How to select Different theme for YouTube [dark/black] :
+ • Reboot
+
+For NonRoot User
+
+ • Install MicroG
+
+ • Install YouTube ReVanced (Dark / Black)     
+
+## How to select Different theme for YouTube (Magisk) [dark/black] :
 
 1. For black theme :
 This is default theme
@@ -37,9 +45,9 @@ For NonRoot User:
 
 • Before install YouTube ReVanced App, must install MicroG.Otherwise YouTube App will Crash🔉
 ## Support
-[![Channel](https://img.shields.io/badge/Subscribe%20-Telegram%20Channel%20%20-blue.svg?logo=telegram)](https://t.me/AndroidRepoOfficial)
+[![Channel](https://img.shields.io/badge/Follow%20-Telegram%20Channel%20%20-blue.svg?logo=telegram)](https://t.me/AndroidRepoOfficial)
 
 ## Social Links
-[![Facebook](https://img.shields.io/badge/Follow-Facebook-blue.svg?logo=facebook)](https://www.facebook.com/Arfatulislamantor)
+[![Facebook](https://img.shields.io/badge/Follow-Facebook-blue.svg?logo=facebook)](https://www.facebook.com/OO7Arafat)
 [![Instagram](https://img.shields.io/badge/Follow-Instagram-red.svg?logo=instagram)](https://www.instagram.com/Arafatulislamantor)
 [![Twitter](https://img.shields.io/badge/Follow-Twitter-blue.svg?logo=twitter)](https://www.twitter.com/CryptoArafat) [![Telegram](https://img.shields.io/badge/-Telegram-blue.svg?logo=telegram)](https://t.me/Arafatulislamantor)
