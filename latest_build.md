@@ -1,7 +1,8 @@
-## v17.31.36
+## v17.32.35
 
 ## Changelog:
-Bug fixes
+
+• Bug fixes
 
 • Swipe-controls override volume button behaviour.
 
@@ -11,4 +12,4 @@ Bug fixes
 
 • This build introduces the tablet-mini-player patch.
 
-• Bumped up the YouTube base to version 17.31.36.
+• Bumped up the YouTube base to version 17.32.35.
