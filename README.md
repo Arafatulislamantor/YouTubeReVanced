@@ -29,7 +29,7 @@ YouTube ReVanced (Root / NonRoot)
 
 ✨For NonRoot User:
 
- • Install MicroG
+ • Install [MicroG](https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk)
 
  • Install YouTube ReVanced (Dark / Black)     
 
