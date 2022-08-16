@@ -1,6 +1,8 @@
 ## YouTube ReVanced
-[![Download](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVancedUnofficial?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest) [![Total](https://shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/tag/v17.29.34)
+[![Download Latest Revanced](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVancedUnofficial?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest) [![Total](https://shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest)
+![Release](https://img.shields.io/github/release-date/Arafatulislamantor/YouTubeReVancedUnofficial?color=teal&label=Release%20Date%20%20) ![Total Downloads](https://img.shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?label=Downloads%20)
 ![](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/blob/16b0c4c77ef042365dcbd531c9058f04bb34e5f5/YoutubeRevanced.jpg)
+
 ## Root and NonRoot
 ✨Both Variants are Available
 
