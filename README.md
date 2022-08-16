@@ -1,5 +1,8 @@
 ## [![YouTube Revanced](https://img.shields.io/badge/YouTube-ReVanced-red?color=red&logoColor=red&label=YouTube&logo=YouTube)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial)
-[![Download Latest Revanced](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVancedUnofficial?color=red&logoColor=red&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest) [![Downloads](https://shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?logo=Bookmeter&label=Total%20Downloads&logoColor=brightgreen&color=teal)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest)
+[![Download Latest Revanced](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVancedUnofficial?color=red&logoColor=red&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest)
+
+[![Downloads](https://shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?logo=Bookmeter&label=Total%20Downloads&logoColor=brightgreen&color=teal)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest)
+
 [![Repository Release](https://img.shields.io/github/release-date/Arafatulislamantor/YouTubeReVancedUnofficial?logo=Github&logoColor=light&color=brightgreen&label=Repo%20Release%20Date%20%20)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial)
 ![](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/blob/16b0c4c77ef042365dcbd531c9058f04bb34e5f5/YoutubeRevanced.jpg)
 
