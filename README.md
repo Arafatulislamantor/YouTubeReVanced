@@ -58,7 +58,7 @@ To be able to update YouTube ReVanced version, you will need to:
 
 • Before install YouTube ReVanced App, must install MicroG.Otherwise YouTube App will Crash🔉
 ## Support
-[![Arafat's TelegramChannel](https://img.shields.io/badge/Follow%20My%20-Telegram%20Channel%20%20-blue.svg?logo=telegram)](https://t.me/AndroidRepoOfficial)
+[![Arafat's TelegramChannel](https://img.shields.io/badge/Follow%20My%20-Telegram%20Channel%20%20-blue.svg?logo=telegram)](https://t.me/AndroidsRepo)
 
 ## Communication LINKS 
 [![Arafat's Telegram Profile](https://img.shields.io/badge/Contact%20Me%20On%20-Telegram-blue.svg?logo=telegram)](https://t.me/Arafatulislamantor)
