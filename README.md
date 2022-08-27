@@ -29,9 +29,11 @@ YouTube ReVanced (Root)
  • Reboot
 
 ## Updating
-The modules support Magisk update which means you will receive updates from your Magisk app, downloading from github releases and reflashing is not necessary.  
+Downloading from github releases and reflashing is necessary.  
 To be able to update YouTube ReVanced version, you will need to:
 
+ • Download ReVanced Module
+ 
  • Update the ReVanced Module
 
  • Reboot
