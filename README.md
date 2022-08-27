@@ -15,12 +15,12 @@ As most of you are aware that YouTube Vanced has been discontinued.ReVanced cont
 
 ## This repo includes a simple script that downloads all the latest version of necessary prebuilt ReVanced YouTube applies the patches and creates magisk modules.
 
-## Latest ReVanced Releases 
-You can get the latest
+## ReVanced Releases 
+You can get the all  
 
 YouTube ReVanced (Root / NonRoot)
 
-[Releases From Here](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest).
+[Releases From Here](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases).
 
 ## Instructions
 ✨For Rooted User :
