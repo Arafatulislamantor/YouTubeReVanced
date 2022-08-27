@@ -1,23 +1,33 @@
-## v17.32.35
+## v17.32.39
 
 ## Changelog:
 
-• Bug fixes
+• Bug fixes and optimizations:
 
-• Swipe-controls override volume button behaviour.
+• Package name for Vanced.
 
-• Add missing switch for tablet mini-player.
+• Patch annotation for client-spoof patch.
+
+• Changed default value for autorepeat setting.
+
+• Default values for settings.
+
+• Restart prompt for tablet-miniplayer patch setting.
+
+• Restart when toggling the downloads button.
 
 ## Features:
 
-• This build introduces the tablet-mini-player patch.
+• Add debug switch.
 
-• Bumped up the YouTube base to version 17.32.35.
+• Client-spoof patch.
+
+• Setting for downloader package name.
 
 ## Built With
 
-• revanced-cli-2.9.2-all.jar
+✨ReVanced-cli-2.9.3-all.jar
 
-• revanced-patches-2.33.2.jar
+✨ReVanced-patches-2.44.0.jar
 
-• revanced-integrations-0.31.2.apk
+✨ReVanced-integrations-0.36.3.apk
