@@ -7,20 +7,19 @@
 ## Built Status
 💠 Unofficial
 
+## Root and NonRoot Variants are Available  
+
 ## ReVanced Team Continuing Legacy of Vanced   
 As most of you are aware that YouTube Vanced has been discontinued.ReVanced continuing legacy of Vanced.It has all the YouTube Vanced cool features like Ads blocking, Sponsor Block, Layout Changes, Return YouTube Dislikes & much more. Also it's base updates regularly.
 
 ## This repo includes a simple script that downloads all the latest version of necessary prebuilt ReVanced YouTube applies the patches and creates magisk modules.
 
 ## ReVanced Releases 
-You can get the all  
-
-YouTube ReVanced (Root)
-
-[Releases From Here](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases).
+You can get the all
+YouTube ReVanced [Releases From Here](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases).
 
 ## Instructions
-✨For Rooted User :
+Rooted Magisk Variant :
 
  • Download Youtube ReVanced Module
 
@@ -28,15 +27,19 @@ YouTube ReVanced (Root)
 
  • Reboot
 
+## Non-Root Variant Required [MicroG](https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk)
+
 ## Updating
-Downloading from github releases and reflashing is necessary.  
-To be able to update YouTube ReVanced version, you will need to:
+The modules support Magisk update which means you will receive updates from your Magisk app, downloading from github releases and reflashing is not necessary.  
+To be able to update YouTube Vanced version, you will need to:
 
- • Download ReVanced Module
- 
- • Update the ReVanced Module
+ * Disable the ReVanced Module
 
- • Reboot
+ * Reboot
+
+ * Update YouTube ReVanced
+
+ * Reboot again
 
 ## Support
 [![Arafat's TelegramChannel](https://img.shields.io/badge/Follow%20My%20-Telegram%20Channel%20%20-blue.svg?logo=telegram)](https://t.me/AndroidsRepo)
