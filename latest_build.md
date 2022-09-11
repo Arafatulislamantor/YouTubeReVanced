@@ -1,4 +1,5 @@
 ## Changelog :
+- Bug fixes and Optimizations
 - Add x2.25 speed to custom playback speed
 - Improve Adblock
 - Improve Black Theme
