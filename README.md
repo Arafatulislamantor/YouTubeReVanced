@@ -30,12 +30,11 @@ Rooted Magisk Variant :
 ## Non-Root Variant Required [MicroG](https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk)
 
 ## Updating
-Downloading from github releases.
-To be able to update YouTube ReVanced version, you will need to:
+Download the ReVanced Latest module from github releases.
 
  * Update YouTube ReVanced
 
- * Reboot again
+ * Reboot! Have fun🫠
 
 ## Support
 [![Arafat's TelegramChannel](https://img.shields.io/badge/Follow%20My%20-Telegram%20Channel%20%20-blue.svg?logo=telegram)](https://t.me/AndroidsRepo)
