@@ -6,8 +6,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/Arafatulislamantor/YouTubeReVancedUnofficial?color=white&label=Licence&logo=gnu">
 ![](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/blob/16b0c4c77ef042365dcbd531c9058f04bb34e5f5/YoutubeRevanced.jpg)
 
-### Built Status
-💠 Unofficial
+### ![Unofficial](https://img.shields.io/badge/Built%20Status-Unofficial-teal?style=for-the-badge)
 
 ### Root and NonRoot Variants are Available  
 
