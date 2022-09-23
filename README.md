@@ -1,7 +1,8 @@
 # YouTube ReVanced
 [![Download Latest Revanced](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVancedUnofficial?color=red&logoColor=red&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest)
-[![Total Downloads](https://shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?logo=Bookmeter&label=Total%20Downloads&logoColor=brightgreen&color=teal)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases)
-[![Repository Release Update](https://img.shields.io/github/release-date/Arafatulislamantor/YouTubeReVancedUnofficial?logo=Github&logoColor=light&color=brightgreen&label=Repository%20Update👉)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases)
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?style=social">
+![All ReVanced Releases](https://img.shields.io/badge/Releases-blue?logo=Youtube&label=ReVanced&logoColor=red&color=teal)
+![Repository Release](https://img.shields.io/github/release-date/Arafatulislamantor/YouTubeReVancedUnofficial?logo=Github&logoColor=light&color=teal&label=Repo%20Update)
 ![](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/blob/16b0c4c77ef042365dcbd531c9058f04bb34e5f5/YoutubeRevanced.jpg)
 
 ### Built Status
@@ -14,7 +15,7 @@ As most of you are aware that YouTube Vanced has been discontinued.ReVanced cont
 
 #### This repo includes a simple script that downloads all the latest version of necessary prebuilt ReVanced YouTube applies the patches and creates magisk modules.
 
-#### You can get the all YouTube ReVanced Releases From [Here](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases).
+#### You can get the all YouTube ReVanced Github Releases From [![All ReVanced Releases](https://img.shields.io/badge/Here-9cf?logo=Github)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases)
 
 ## Instructions
 Rooted Magisk Variant :
