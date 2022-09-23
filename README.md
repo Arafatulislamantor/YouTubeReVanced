@@ -36,9 +36,9 @@ Just Download the latest module from github releases.then
  * Done! Reboot Device & Have fun🫠
 
 ### Telegram Channel
-[![Arafat's TelegramChannel](https://img.shields.io/badge/Telegram%20Channel%20%20-white.svg?logo=telegram)](https://t.me/AndroidsRepo)
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel%20%20-white.svg?logo=telegram)](https://t.me/AndroidsRepo)
 
-### Social LINKS 
+### Social Links 
 [![Arafat's Twitter Profile](https://img.shields.io/badge/Twitter-white.svg?logo=twitter)](https://www.twitter.com/CryptoArafat) 
 [![Arafat's Telegram Profile](https://img.shields.io/badge/Telegram-white.svg?logo=telegram)](https://t.me/Arafatulislamantor)
 [![Arafat's Facebook Profile](https://img.shields.io/badge/Facebook-white.svg?logo=facebook)](https://www.facebook.com/OO7Arafat)
