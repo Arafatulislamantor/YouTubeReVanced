@@ -9,8 +9,8 @@
 
 ### Root and NonRoot Variants are Available  
 
-### ReVanced Team Continuing Legacy of Vanced   
-As most of you are aware that YouTube Vanced has been discontinued.ReVanced continuing legacy of Vanced.It has all the YouTube Vanced cool features like Ads blocking, Sponsor Block, Layout Changes, Return YouTube Dislikes & much more. Also it's base updates regularly.
+### ReVanced Team Continuing The Legacy of Vanced   
+As most of you are aware that YouTube Vanced has been discontinued.ReVanced continuing the legacy of Vanced.It has all the YouTube Vanced cool features like Ads blocking, Sponsor Block, Layout Changes, Return YouTube Dislikes & much more. Also it's base updates regularly.
 
 #### This repo includes a simple script that downloads all the latest version of necessary prebuilt ReVanced YouTube applies the patches and creates magisk modules.
 
