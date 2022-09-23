@@ -3,7 +3,7 @@
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?style=social">
 [![All ReVanced Releases](https://img.shields.io/badge/Releases-white?logo=Youtube&label=ReVanced&logoColor=red&color=blue)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases)
 ![Repository Release](https://img.shields.io/github/release-date/Arafatulislamantor/YouTubeReVancedUnofficial?logo=Github&logoColor=light&color=teal&label=Repo%20Update)
-<img alt="GitHub" src="https://img.shields.io/github/license/Arafatulislamantor/YouTubeReVancedUnofficial?color=white&label=Licence&logo=gnu">
+<img alt="GitHub" src="https://img.shields.io/github/license/Arafatulislamantor/YouTubeReVancedUnofficial?color=white&label=Licence&logo=gnu"> <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/Arafatulislamantor/YouTubeReVancedUnofficial?color=white&label=Repo%20Size&logo=github">
 ![](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/blob/16b0c4c77ef042365dcbd531c9058f04bb34e5f5/YoutubeRevanced.jpg)
 # ![Build](https://img.shields.io/badge/Built%20Status-Unofficial-teal?style=for-the-badge)
 
