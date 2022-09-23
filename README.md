@@ -16,7 +16,7 @@ As most of you are aware that YouTube Vanced has been discontinued.ReVanced cont
 
 #### You can get the all YouTube ReVanced Releases From [Here](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases).
 
-# Instructions
+## Instructions
 Rooted Magisk Variant :
 
  • Download Youtube ReVanced Module
@@ -27,26 +27,23 @@ Rooted Magisk Variant :
 
 ### Non-Root Variant Required [MicroG](https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk)
 
-# ReVanced Module Updating
+## ReVanced Module Updating
 Just Download the latest module from github releases.then
 
  * Update YouTube ReVanced
 
  * Done! Reboot Device & Have fun🫠
 
-# Telegram Channel
+### Telegram Channel
 [![Arafat's TelegramChannel](https://img.shields.io/badge/Follow%20My%20-Telegram%20Channel%20%20-blue.svg?logo=telegram)](https://t.me/AndroidsRepo)
 
-# Social LINKS 
-[![Arafat's Telegram Profile](https://img.shields.io/badge/Contact%20Me%20On%20-Telegram-blue.svg?logo=telegram)](https://t.me/Arafatulislamantor)
+### Social LINKS 
+[![Arafat's Twitter Profile](https://img.shields.io/badge/Twitter-blue.svg?logo=twitter)](https://www.twitter.com/CryptoArafat) 
+[![Arafat's Telegram Profile](https://img.shields.io/badge/Telegram-blue.svg?logo=telegram)](https://t.me/Arafatulislamantor)
+[![Arafat's Facebook Profile](https://img.shields.io/badge/Facebook-blue.svg?logo=facebook)](https://www.facebook.com/OO7Arafat)
+[![Arafat's Instagram Profile](https://img.shields.io/badge/Instagram-red.svg?logo=instagram)](https://www.instagram.com/Arafatulislamantor)
 
-[![Arafat's Twitter Profile](https://img.shields.io/badge/Contact%20Me%20On%20-Twitter-blue.svg?logo=twitter)](https://www.twitter.com/CryptoArafat) 
-
-[![Arafat's Facebook Profile](https://img.shields.io/badge/Contact%20Me%20On%20-Facebook%20-blue.svg?logo=facebook)](https://www.facebook.com/OO7Arafat)
-
-[![Arafat's Instagram Profile](https://img.shields.io/badge/Contact%20Me%20On%20-Instagram-red.svg?logo=instagram)](https://www.instagram.com/Arafatulislamantor)
-
-## Contributors  
+### Contributor
 <a href="https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Arafatulislamantor/YouTubeReVancedUnofficial" />
 </a>
