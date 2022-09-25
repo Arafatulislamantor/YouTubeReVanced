@@ -1,7 +1,7 @@
-## Youtube ReVanced
+# Youtube ReVanced
 - v17.38.34
 
-## Changes :
+## Changelog :
 - Several Bug Fixes and Optimizations
 - Hide time and seekbar
 - Premium Header Removed (Annoying)
