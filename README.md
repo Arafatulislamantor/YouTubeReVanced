@@ -45,7 +45,8 @@ Just Download the latest module from github releases.then
 [![Arafat's Instagram Profile](https://img.shields.io/badge/Instagram-white.svg?logo=instagram)](https://www.instagram.com/Arafatulislamantor)
 
 ## Thanks & Credits
-[ReVanced](https://github.com/revanced)
+- [ReVanced Team](https://github.com/revanced)
+- [APKMirror Official YouTube](https://www.apkmirror.com/apk/google-inc/youtube/)
 ### Contributor
 <a href="https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Arafatulislamantor/YouTubeReVancedUnofficial" />
