@@ -51,3 +51,5 @@ Just Download the latest module from github releases.then
 <a href="https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Arafatulislamantor/YouTubeReVancedUnofficial" />
 </a>
+
+<img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVanced?color=red&logoColor=red&include_prereleases&label=Download&logo=DocuSign">
