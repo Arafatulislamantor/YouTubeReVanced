@@ -1,6 +1,6 @@
 # YouTube ReVanced
-[![Download Latest Revanced](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVancedUnofficial?color=red&logoColor=red&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeReVanced/releases/latest)
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?style=social">
+
+<img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVanced?color=red&logoColor=red&include_prereleases&label=Download&logo=DocuSign"> <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?style=social">
 [![All ReVanced Releases](https://img.shields.io/badge/Releases-white?logo=Youtube&label=ReVanced&logoColor=red&color=blue)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases)
 ![Repository Release](https://img.shields.io/github/release-date/Arafatulislamantor/YouTubeReVancedUnofficial?logo=Github&logoColor=light&color=teal&label=Repo%20Update)
 <img alt="GitHub" src="https://img.shields.io/github/license/Arafatulislamantor/YouTubeReVancedUnofficial?color=white&label=Licence&logo=gnu"> <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/Arafatulislamantor/YouTubeReVancedUnofficial?color=white&label=Repo%20Size&logo=github"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Arafatulislamantor/YouTubeReVancedUnofficial?style=social">
@@ -51,5 +51,3 @@ Just Download the latest module from github releases.then
 <a href="https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Arafatulislamantor/YouTubeReVancedUnofficial" />
 </a>
-
-<img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVanced?color=red&logoColor=red&include_prereleases&label=Download&logo=DocuSign">
