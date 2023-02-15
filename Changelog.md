@@ -1,19 +1,12 @@
-# Youtube ReVanced
-- v17.38.35
+# Youtube ReVanced Extended 
 
 ## Changelog :
 - Several Bug Fixes and Optimizations
-- Bump YouTube Version to 17.38.35
+- remove disable-shorts-player-pip patch (Integrated into minimized-playback patch revanced@cd48030)
+- Fixed Hide Gray Separator setting hides unintended layout
+- Bump YouTube Version to 18.05.40
 
-## Feature :
-- Hide the E-mail address(Added)
-   
 ## Built With :
-- ReVanced-cli-2.13.0-all.jar
-- ReVanced-patches-2.77.0.jar
-- ReVanced-integrations-0.46.2.apk
-
-## Note
-AMOLED Theme based Root/NonRoot variant zip/apk available.No more support for Dark theme😐
-   
-### NonRoot variants required [MicroG](https://github.com/Arafatulislamantor/YouTubeReVanced/releases/download/v17.38.35/Vanced_MicroG_0.2.25.223212.apk)
+- ReVanced-cli-2.20.3-all.jar
+- ReVanced-patches-2.160.1.jar
+- ReVanced-integrations-0.96.1.apk
