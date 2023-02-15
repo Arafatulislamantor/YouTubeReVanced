@@ -1,5 +1,5 @@
 # YouTube ReVanced
-[![Download Latest Revanced](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVancedUnofficial?color=red&logoColor=red&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases/latest)
+[![Download Latest Revanced](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeReVancedUnofficial?color=red&logoColor=red&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeReVanced/releases/latest)
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Arafatulislamantor/YouTubeReVancedUnofficial/total?style=social">
 [![All ReVanced Releases](https://img.shields.io/badge/Releases-white?logo=Youtube&label=ReVanced&logoColor=red&color=blue)](https://github.com/Arafatulislamantor/YouTubeReVancedUnofficial/releases)
 ![Repository Release](https://img.shields.io/github/release-date/Arafatulislamantor/YouTubeReVancedUnofficial?logo=Github&logoColor=light&color=teal&label=Repo%20Update)
